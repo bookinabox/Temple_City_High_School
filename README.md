@@ -12,7 +12,8 @@ The current iteration more or less stopped early summer 2020. Since then, TC has
 
 ## Credits
 
-- Connor D: Server hosting, recruitment of more people, general mangement, plugin management, misc. building
+print(lines)
+- Connor D: Server hosting, recruitment of more people, general mangement, plugin management, PR and media, misc. building
 
 - Derek L: Original build, most of the "new" buildings, skeleton of the library, music room, shop classes, portables, locker room skeletons, offices, lunch shelter, other misc work
 
