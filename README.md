@@ -4,16 +4,15 @@ This is not the only version of TCHS that has been made. Plenty of people have m
 
 The original map started off as a bored summer project by Derek L. in the summer of 2019.
 
-After quarantine started in March 2020, the world file was shared and worked on my Derek L, Connor D, and Daniel K. Connor hosted the server on his labtop and it was worked on collaboratively.
+After quarantine started in March 2020, the world file was shared and worked on my Derek L, Connor D, and Daniel K. Connor hosted the server on his laptop and it was worked on collaboratively.
 
 Over the next few weeks, dozens of people were added and worked on the school. The server moved over to a paid server paid for by Connor. Progress slowly stopped as school ended.
 
-The current iteration more or less stopped early summer 2020. Since then, TC has gone over minor rennovations as of Winter 2020. These will not be reflected in the build.
+The current iteration more or less stopped early summer 2020. Since then, TC has gone over minor renovations as of Winter 2020. These will not be reflected in the build.
 
 ## Credits
 
-print(lines)
-- Connor D: Server hosting, recruitment of more people, general mangement, plugin management, PR and media, misc. building
+- Connor D: Server hosting, recruitment of more people, general management, plugin management, PR and media, misc. building
 
 - Derek L: Original build, most of the "new" buildings, skeleton of the library, music room, shop classes, portables, locker room skeletons, offices, lunch shelter, other misc work
 
@@ -21,11 +20,13 @@ print(lines)
 
 - Daniel K: Work on the old buildings including chemistry room
 
-- Nathan C: Dragonflick room and other library rooms, other misc work
+- Nathan C: Dragonflicks room and other library rooms, other misc work
 
 - Bennett J: Offices, parking lot, other misc work
 
-- Wesley Ha: Weight Room, other misc work.
+- Wesley Ha: Weight Room, Track, other misc work.
+
+- Samuel Au: Graduation Stage, Track, other misc work.
 
 Many many many more.
 
